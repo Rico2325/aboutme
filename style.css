@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://m.media-amazon.com/images/I/71rB-zVeT8L.jpg"); /* The image used */<img src="" alt=""width="450px" >
+   
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+  table {
+    border: 3px solid black;
+    position: absolute;
+    top: 450px;
+    left: 300px;
+  }
+  #table2 {
+    border: 3px solid black;
+    position: absolute;
+    top: 950px;
+    left: 675px;
+  
+  
+  }
